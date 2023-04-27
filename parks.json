@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "name": "Dalby Söderskog",
+            "url": "sss",
+            "latitude": 55.67245,
+            "longitude": 13.33019
+        },
+        {
+            "name": "Söderåsen",
+            "url": "sss",
+            "latitude": 56.03807,
+            "longitude": 13.25156
+        },
+        {
+            "name": "Stenshuvud",
+            "url": "sss",
+            "latitude": 55.65613,
+            "longitude": 14.26844
+        },
+        {
+            "name": "Åsnen",
+            "url": "sss",
+            "latitude": 56.61415,
+            "longitude": 14.61545
+        },
+        {
+            "name": "Store Mosse",
+            "url": "sss",
+            "latitude": 57.30004,
+            "longitude": 13.92994
+        },
+        {
+            "name": "Blå jungfrun",
+            "url": "sss",
+            "latitude": 57.25305,
+            "longitude": 16.79776
+        },
+        {
+            "name": "Norra Kvill",
+            "url": "sss",
+            "latitude": 57.75722,
+            "longitude": 15.59967
+        },
+        {
+            "name": "Djurö",
+            "url": "sss",
+            "latitude": 58.86583,
+            "longitude": 13.46570
+        },
+        {
+            "name": "Garphyttan",
+            "url": "sss",
+            "latitude": 59.27863,
+            "longitude": 14.88345
+        },
+        {
+            "name": "Gotska Sandön",
+            "url": "sss",
+            "latitude": 58.34653,
+            "longitude": 19.25746
+        },
+        {
+            "name": "Tresticklan",
+            "url": "sss",
+            "latitude": 59.04681,
+            "longitude": 11.79968
+        },
+        {
+            "name": "Kosterhavet",
+            "url": "sss",
+            "latitude": 58.89305,
+            "longitude": 11.04812
+        },
+        {
+            "name": "Färnebofjärden",
+            "url": "sss",
+            "latitude": 60.19421,
+            "longitude": 16.67316
+        },
+        {
+            "name": "Tiveden",
+            "url": "sss",
+            "latitude": 58.71678,
+            "longitude": 14.60732
+        },
+        {
+            "name": "Tyresta",
+            "url": "sss",
+            "latitude": 59.16999,
+            "longitude": 18.23611
+        },
+        {
+            "name": "Ängsö",
+            "url": "sss",
+            "latitude": 59.61660,
+            "longitude": 18.76177
+        },
+        {
+            "name": "Fulufjället",
+            "url": "sss",
+            "latitude": 61.48819,
+            "longitude": 12.91799
+        }
+    ]
+}
